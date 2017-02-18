@@ -1,4 +1,5 @@
-***** Direct Decoder *****
+# Direct Decoder
+
 ***** Developed by Nelson Dsouza *****
 ***** September@2013 *****
 ___________________________________________________________________________
